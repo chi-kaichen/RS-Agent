@@ -57,53 +57,25 @@
 dataset/
 ├── blur/
 │   ├── train/
+│   │   ├── input/                 # 退化图像
+│   │   └── gt/                    # 真值图像（与 input 同名）
+│   └── test/
 │       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
+│       └── gt/
 ├── cloud/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
+│   ├── train/{input,gt}/
+│   └── test/{input,gt}/
 ├── color/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
+│   ├── train/{input,gt}/
+│   └── test/{input,gt}/
 ├── haze/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
-├── low-light/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
+│   └── ...（同上三划分）
+├── low_light/
+│   └── ...
 ├── noise/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
-├── shadow/
-│   ├── train/
-│       ├── input/
-│       ├── gt/
-│   ├── test/
-│       ├── input/
-└──      ├── gt/
+│   └── ...
+└── shadow/
+    └── ...
 ```
 
 ---
