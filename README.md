@@ -69,7 +69,7 @@ dataset/
 │   ├── train/{input,gt}/
 │   └── test/{input,gt}/
 ├── haze/
-│   └── ...（同上三划分）
+│   └── ...
 ├── low_light/
 │   └── ...
 ├── noise/
