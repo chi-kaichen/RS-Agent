@@ -58,14 +58,55 @@ dataset/
 ├── blur/
 │   ├── train/
 │       ├── input/
-│       ├── gtt/
-│   └── xxx/
-├── val/
-└── test/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── cloud/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── color/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── haze/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── low-light/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── noise/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
+├── shadow/
+│   ├── train/
+│       ├── input/
+│       ├── gt/
+│   ├── test/
+│       ├── input/
+└──      ├── gt/
 ```
 
 ---
-
 
 ## 📝 引用
 
