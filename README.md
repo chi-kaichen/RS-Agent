@@ -34,16 +34,6 @@
   <img src="assets/architecture.png" width="90%" alt="Network Architecture">
 </p>
 
-**模块说明：**
-
-| 模块 | 说明 |
-| --- | --- |
-| Backbone | XXX 主干网络 |
-| Module A | XXX 特征提取 / 融合模块 |
-| Head | XXX 预测头 |
-
-> 图片文件路径：`assets/architecture.png`
-
 ---
 
 ## 📊 数据集 (Dataset)
