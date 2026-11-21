@@ -64,63 +64,6 @@ dataset/
 
 ---
 
-## ⚙️ 环境安装
-
-```bash
-git clone https://github.com/yourname/your-repo.git
-cd your-repo
-
-conda create -n xxx python=3.10 -y
-conda activate xxx
-
-pip install -r requirements.txt
-```
-
-> 训练代码和权重将在后续版本中上传。
-
----
-
-## 🚀 快速开始
-
-```bash
-# 训练
-python train.py --config configs/default.yaml
-
-# 测试 / 推理
-python test.py --config configs/default.yaml --ckpt checkpoints/best.pth
-```
-
-> 以上命令为占位示例，代码上传后请以实际命令为准。
-
----
-
-## 🏆 实验结果
-
-| 方法 | 数据集 | 指标 | 权重 |
-| --- | --- | --- | --- |
-| Baseline | XXX | TBD | 待上传 |
-| Ours | XXX | TBD | 待上传 |
-
----
-
-## 📁 项目结构
-
-```text
-.
-├── assets/
-│   ├── architecture.png   # 网络架构图
-│   └── dataset.png        # 数据集图
-├── configs/               # 配置文件（待上传）
-├── models/                # 模型代码（待上传）
-├── scripts/
-│   └── init_repo.sh
-├── train.py               # 训练脚本（待上传）
-├── test.py                # 测试脚本（待上传）
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 📝 引用
 
@@ -134,7 +77,7 @@ python test.py --config configs/default.yaml --ckpt checkpoints/best.pth
 
 ## 📧 联系方式
 
-如有问题，欢迎提交 Issue 或联系：`your_email@xxx.com`
+如有问题，欢迎提交 Issue 或联系：`chikaichen@mail.nwpu.edu.cn`
 
 ## 🙏 致谢
 
