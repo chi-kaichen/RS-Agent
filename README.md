@@ -42,14 +42,12 @@
   <img src="assets/dataset.png" width="90%" alt="Dataset Overview">
 </p>
 
-> 图片文件路径：`assets/dataset.png`
 
 ### 下载地址
 
 | 平台 | 链接 | 提取码 |
 | --- | --- | --- |
 | 百度网盘 | https://pan.baidu.com/s/xxxxxxxx | `xxxx` |
-| Google Drive | 待补充 | - |
 
 > ⚠️ 数据集仅供学术研究使用，请勿用于商业用途。
 
