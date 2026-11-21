@@ -55,8 +55,10 @@
 
 ```text
 dataset/
-├── train/
-│   ├── xxx/
+├── blur/
+│   ├── train/
+│       ├── input/
+│       ├── gtt/
 │   └── xxx/
 ├── val/
 └── test/
