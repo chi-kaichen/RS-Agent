@@ -78,7 +78,3 @@ dataset/
 ## 📧 联系方式
 
 如有问题，欢迎提交 Issue 或联系：`chikaichen@mail.nwpu.edu.cn`
-
-## 🙏 致谢
-
-感谢 XXX 提供的开源代码与数据集。
