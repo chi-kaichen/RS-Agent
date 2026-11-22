@@ -47,7 +47,7 @@
 
 | 平台 | 链接 | 提取码 |
 | --- | --- | --- |
-| 百度网盘 | https://pan.baidu.com/s/xxxxxxxx | `xxxx` |
+| 百度网盘 | https://pan.baidu.com/s/1ljZjR6n244MsXuph9Atm6g?pwd=w2y6 | `w2y6` |
 
 > ⚠️ 数据集仅供学术研究使用，请勿用于商业用途。
 
